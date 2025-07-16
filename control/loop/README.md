@@ -1,7 +1,11 @@
-# Loop Example in Java
+# Loop Control Mechanisms
 
-This is a simple Java program demonstrating a basic `for` loop.
+This folder contains simple Java implementations of all basic loop control mechanisms:
 
-## Description
+- **For Loop**: Classic counted loop.
+- **Enhanced For Loop (For-Each)**: Iteration over arrays or collections.
+- **While Loop**: Condition-controlled loop, checks before execution.
+- **Do-While Loop**: Condition-controlled loop, checks after execution (executes at least once).
 
-The program prints the numbers from 1 to 10, each on a new line, using a `for` loop.
+Each loop type is implemented in its own Java file to demonstrate its usage clearly.
+
